@@ -1,0 +1,21 @@
+[
+
+    {
+      "question": "How do you stay updated on the latest trends in data analytics and machine learning?",
+      "type": "Behavioral",
+      "answer/intent": "The intent behind this question is to understand the candidate's approach to continuous learning in a rapidly evolving field. Look for keywords such as stay updated, research papers, reputable blogs, and online communities."
+    },
+
+    {
+      "question": "How do you approach explaining complex data findings to non-technical stakeholders?",
+      "type": "Behavioral",
+      "answer/intent": "The intent behind this question is to evaluate the candidate's communication skills and ability to convey complex information to non-technical stakeholders. Look for keywords such as explain complex data, visualizations, storytelling, and business impact."
+    },
+
+    {
+      "question": "How do you contribute to creating a positive and collaborative team environment?",
+      "type": "Cultural Fit",
+      "answer/intent": "The intent behind this question is to assess the candidate's teamwork and collaboration skills. Look for keywords such as positive team environment, collaboration, and open communication."
+    }
+  ]
+  
