@@ -2,7 +2,8 @@
 
 # Interview Preparation Tool
 
-![Project Logo](path/to/your/logo.png)
+![Project Logo](Logo.jpeg)
+
 
 ## Overview
 
