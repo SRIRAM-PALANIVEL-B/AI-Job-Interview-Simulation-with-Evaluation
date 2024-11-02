@@ -2,8 +2,6 @@
 
 # Interview Preparation Tool
 
-![Project Logo](logo.png)
-
 
 ## Overview
 
@@ -54,6 +52,10 @@ Execute the Streamlit app:
 - **Enter Job Description**: Input the job description for the position you're applying for.
 - **Navigate Through Rounds**: Utilize different rounds (Introduction, Warmup, Interview) for comprehensive preparation.
 - **Receive AI Feedback**: Get instant feedback and suggestions on your responses.
+
+
+
+![Project Logo](logo.png)
 
 
 
