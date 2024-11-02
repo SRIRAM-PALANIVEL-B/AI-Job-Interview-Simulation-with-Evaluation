@@ -2,7 +2,7 @@
 
 # Interview Preparation Tool
 
-![Project Logo](Logo.jpeg)
+![Project Logo](logo.png)
 
 
 ## Overview
